@@ -1,2 +1,2 @@
-# DeevOps
+# DevOps
 DevOps Event
